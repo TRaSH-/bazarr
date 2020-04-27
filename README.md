@@ -1,2 +1,2 @@
 # bazarr-wiki
-Redo of the Bazarr-wiki
+Testing site of the redo of the official Bazarr-wiki.
